@@ -14,8 +14,7 @@ Pre-processing techniques involved:
 
 Out of the Two models Passive Aggressive Classifier outperformed MultinomialNB 
 
-Model Accuracy on Test: 0.946
-Confusion matrix, without normalization
-F1_score: 0.946
-Precision: 0.9430008382229673 
- Recall:0.9336099585062241
+- Model Accuracy on Test: 0.946
+- F1_score: 0.946
+- Precision: 0.9430008382229673 
+- Recall:0.9336099585062241
